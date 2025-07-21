@@ -1,0 +1,20 @@
+23:49:41.962 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Admin\WorkSpace\AutomationProject\grid-docker.xml
+
+23:54:34.710 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\grid-docker.xml"
+23:54:35.333 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Admin\WorkSpace\AutomationProject\grid-docker.xml
+
+23:57:52.228 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\grid-docker.xml"
+23:57:52.774 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Admin\WorkSpace\AutomationProject\grid-docker.xml
+
+11:42:16.423 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+11:50:22.015 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+12:44:23.723 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+12:46:30.238 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+13:22:51.936 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+13:35:53.824 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+13:50:21.127 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+18:58:17.377 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
+22:05:56.010 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\WorkSpace\AutomationProject\mastersuite.xml"
