@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-05T21:22:51 IST" name="mastersuite" finished-at="2025-08-05T21:25:29 IST" duration-ms="158113">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fd14d74]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fb19a0]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@5a5338df]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fd14d74]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fb19a0]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+        <method signature="TC_0002LoginTest.verify_login()[pri:0, instance:testcases.TC_0002LoginTest@5a5338df]" name="verify_login" class="testcases.TC_0002LoginTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2025-08-05T21:22:51 IST" name="chromeTest" finished-at="2025-08-05T21:23:38 IST" duration-ms="47813">
+      <class name="testcases.TC_0002LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_0002LoginTest@1fd14d74]" started-at="2025-08-05T21:22:51 IST" name="setup" finished-at="2025-08-05T21:23:29 IST" duration-ms="37754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fd14d74]" started-at="2025-08-05T21:23:29 IST" name="verify_login" finished-at="2025-08-05T21:23:38 IST" duration-ms="8308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_0002LoginTest@1fd14d74]" started-at="2025-08-05T21:23:38 IST" name="teardown" finished-at="2025-08-05T21:23:38 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TC_0002LoginTest -->
+    </test> <!-- chromeTest -->
+    <test started-at="2025-08-05T21:23:42 IST" name="edgeTest" finished-at="2025-08-05T21:24:28 IST" duration-ms="45770">
+      <class name="testcases.TC_0002LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_0002LoginTest@1fb19a0]" started-at="2025-08-05T21:23:42 IST" name="setup" finished-at="2025-08-05T21:24:11 IST" duration-ms="29190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testcases.TC_0002LoginTest@1fb19a0]" started-at="2025-08-05T21:24:11 IST" name="verify_login" finished-at="2025-08-05T21:24:27 IST" duration-ms="16015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_0002LoginTest@1fb19a0]" started-at="2025-08-05T21:24:27 IST" name="teardown" finished-at="2025-08-05T21:24:28 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TC_0002LoginTest -->
+    </test> <!-- edgeTest -->
+    <test started-at="2025-08-05T21:24:29 IST" name="firefoxTest" finished-at="2025-08-05T21:25:29 IST" duration-ms="59922">
+      <class name="testcases.TC_0002LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_0002LoginTest@5a5338df]" started-at="2025-08-05T21:24:29 IST" name="setup" finished-at="2025-08-05T21:25:12 IST" duration-ms="43244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testcases.TC_0002LoginTest@5a5338df]" started-at="2025-08-05T21:25:12 IST" name="verify_login" finished-at="2025-08-05T21:25:25 IST" duration-ms="12935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_0002LoginTest@5a5338df]" started-at="2025-08-05T21:25:25 IST" name="teardown" finished-at="2025-08-05T21:25:29 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TC_0002LoginTest -->
+    </test> <!-- firefoxTest -->
+  </suite> <!-- mastersuite -->
+</testng-results>
